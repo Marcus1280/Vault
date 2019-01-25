@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: grey;
+}
+
+#code-container {
+    width: 366px;
+    height: 360px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.buttonNumber {
+    width: 119px;
+    padding: 50px;
+    border: 3px solid White;
+    background-color: #483289;
+    text-align: center;
+}
+
+#redBlock {
+	background-color: red;
+	width: 180px;
+    height: 80px;
+    display: inline-block;
+}
+
+#greenBlock {
+    background-color: green;
+	width: 180px;
+    height: 80px;
+    display: inline-block;
+}
+
+#blocks {
+    margin-top: 100px;
+}
